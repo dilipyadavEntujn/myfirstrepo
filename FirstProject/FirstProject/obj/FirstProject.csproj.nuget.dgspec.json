@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\myfirstrepo\\myfirstrepo\\FirstProject\\FirstProject\\FirstProject.csproj": {}
+    "C:\\Users\\hp\\Source\\Repos\\myfirstrepo\\myfirstrepo\\FirstProject\\FirstProject\\FirstProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\myfirstrepo\\myfirstrepo\\FirstProject\\FirstProject\\FirstProject.csproj": {
+    "C:\\Users\\hp\\Source\\Repos\\myfirstrepo\\myfirstrepo\\FirstProject\\FirstProject\\FirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\myfirstrepo\\myfirstrepo\\FirstProject\\FirstProject\\FirstProject.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\myfirstrepo\\myfirstrepo\\FirstProject\\FirstProject\\FirstProject.csproj",
         "projectName": "FirstProject",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\myfirstrepo\\myfirstrepo\\FirstProject\\FirstProject\\FirstProject.csproj",
+        "projectPath": "C:\\Users\\hp\\Source\\Repos\\myfirstrepo\\myfirstrepo\\FirstProject\\FirstProject\\FirstProject.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\hp\\source\\repos\\myfirstrepo\\myfirstrepo\\FirstProject\\FirstProject\\obj\\",
         "projectStyle": "PackageReference",
